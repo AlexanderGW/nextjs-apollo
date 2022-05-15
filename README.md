@@ -1,4 +1,4 @@
-# LunaJets practical test
+# Next.js Apollo/GraphQL testing
 
 ### `npm run server`
 Apollo server at `http://localhost:4000/graphql`
